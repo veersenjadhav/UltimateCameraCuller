@@ -1,0 +1,5 @@
+CullerTests/bin
+CullerTests/obj
+CullerTests/BenchmarkDotNet.Artifacts
+UltimateCameraCuller/bin
+UltimateCameraCuller/obj
