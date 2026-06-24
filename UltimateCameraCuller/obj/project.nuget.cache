@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Id4jZ+WdIfs=",
+  "success": true,
+  "projectFilePath": "C:\\My_Data\\Projects\\UltimateCameraCuller\\UltimateCameraCuller\\UltimateCameraCuller.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\veers\\.nuget\\packages\\fastmatrixengine\\1.0.1\\fastmatrixengine.1.0.1.nupkg.sha512",
+    "C:\\Users\\veers\\.nuget\\packages\\ilgpu\\1.5.3\\ilgpu.1.5.3.nupkg.sha512",
+    "C:\\Users\\veers\\.nuget\\packages\\ilgpu.algorithms\\1.5.3\\ilgpu.algorithms.1.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}

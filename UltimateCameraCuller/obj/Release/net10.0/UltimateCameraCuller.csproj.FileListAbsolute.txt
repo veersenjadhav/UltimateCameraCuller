@@ -1,0 +1,12 @@
+C:\My_Data\Projects\UltimateCameraCuller\UltimateCameraCuller\bin\Release\net10.0\UltimateCameraCuller.deps.json
+C:\My_Data\Projects\UltimateCameraCuller\UltimateCameraCuller\bin\Release\net10.0\UltimateCameraCuller.dll
+C:\My_Data\Projects\UltimateCameraCuller\UltimateCameraCuller\bin\Release\net10.0\UltimateCameraCuller.pdb
+C:\My_Data\Projects\UltimateCameraCuller\UltimateCameraCuller\obj\Release\net10.0\UltimateCameraCuller.csproj.AssemblyReference.cache
+C:\My_Data\Projects\UltimateCameraCuller\UltimateCameraCuller\obj\Release\net10.0\UltimateCameraCuller.GeneratedMSBuildEditorConfig.editorconfig
+C:\My_Data\Projects\UltimateCameraCuller\UltimateCameraCuller\obj\Release\net10.0\UltimateCameraCuller.AssemblyInfoInputs.cache
+C:\My_Data\Projects\UltimateCameraCuller\UltimateCameraCuller\obj\Release\net10.0\UltimateCameraCuller.AssemblyInfo.cs
+C:\My_Data\Projects\UltimateCameraCuller\UltimateCameraCuller\obj\Release\net10.0\UltimateCameraCuller.csproj.CoreCompileInputs.cache
+C:\My_Data\Projects\UltimateCameraCuller\UltimateCameraCuller\obj\Release\net10.0\UltimateCameraCuller.dll
+C:\My_Data\Projects\UltimateCameraCuller\UltimateCameraCuller\obj\Release\net10.0\refint\UltimateCameraCuller.dll
+C:\My_Data\Projects\UltimateCameraCuller\UltimateCameraCuller\obj\Release\net10.0\UltimateCameraCuller.pdb
+C:\My_Data\Projects\UltimateCameraCuller\UltimateCameraCuller\obj\Release\net10.0\ref\UltimateCameraCuller.dll

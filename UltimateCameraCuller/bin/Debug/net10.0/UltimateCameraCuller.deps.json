@@ -1,0 +1,79 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "UltimateCameraCuller/1.0.0": {
+        "dependencies": {
+          "FastMatrixEngine": "1.0.1",
+          "ILGPU": "1.5.3"
+        },
+        "runtime": {
+          "UltimateCameraCuller.dll": {}
+        }
+      },
+      "FastMatrixEngine/1.0.1": {
+        "dependencies": {
+          "ILGPU": "1.5.3",
+          "ILGPU.Algorithms": "1.5.3"
+        },
+        "runtime": {
+          "lib/net10.0/FastMatrixEngine.dll": {
+            "assemblyVersion": "1.0.1.0",
+            "fileVersion": "1.0.1.0"
+          }
+        }
+      },
+      "ILGPU/1.5.3": {
+        "runtime": {
+          "lib/net7.0/ILGPU.dll": {
+            "assemblyVersion": "1.5.3.0",
+            "fileVersion": "1.5.3.0"
+          }
+        }
+      },
+      "ILGPU.Algorithms/1.5.3": {
+        "dependencies": {
+          "ILGPU": "1.5.3"
+        },
+        "runtime": {
+          "lib/net7.0/ILGPU.Algorithms.dll": {
+            "assemblyVersion": "1.5.3.0",
+            "fileVersion": "1.5.3.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UltimateCameraCuller/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FastMatrixEngine/1.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-soqQHHtrxx7JTVCaazgjGV0FGvCQ2KQRaJfs6x8/VgukMayFc1FQxbvz9x6O6s2ENj/wX6mr5oOVd+8NH+m3HQ==",
+      "path": "fastmatrixengine/1.0.1",
+      "hashPath": "fastmatrixengine.1.0.1.nupkg.sha512"
+    },
+    "ILGPU/1.5.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-VhAfQqnp/qTcQla5zcBPQIoUJox8T1EuZLuKrynFFE1BQvOOUCksiCb9IQAJa2MSJf6QDi5YIoG45K0I+GWcgg==",
+      "path": "ilgpu/1.5.3",
+      "hashPath": "ilgpu.1.5.3.nupkg.sha512"
+    },
+    "ILGPU.Algorithms/1.5.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-KySqYhghiJKkf77NTLcxebFzD2hz/hpO1Dxz/B0IpnowhwKD3i+PVaGa3E+TXahGHY6711HVOWpKr07wV6qEOg==",
+      "path": "ilgpu.algorithms/1.5.3",
+      "hashPath": "ilgpu.algorithms.1.5.3.nupkg.sha512"
+    }
+  }
+}
